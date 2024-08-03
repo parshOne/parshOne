@@ -47,8 +47,8 @@ As an Infrastructure Engineer at Sopra Banking Software, I focus on:
 
 Professional certifications :
 
-- Aws Solution Architect Associate
-- [Terraform Associate]:(https://www.credly.com/badges/8ac2dc32-9d2c-48d1-8594-a83f5b4b8003/public_url)
+- Aws Solution Architect Associate : https://www.credly.com/badges/68c3531e-1b2b-4a61-9330-42b410fa6308/public_url
+- Terraform Associate : https://www.credly.com/badges/8ac2dc32-9d2c-48d1-8594-a83f5b4b8003/public_url
 ### 🌱 Always Learning
 
 I'm passionate about staying up-to-date with the latest trends in cloud computing and DevOps, especially as they apply to the financial sector. Currently exploring [your current learning focus].
