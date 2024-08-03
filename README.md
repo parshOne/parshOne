@@ -45,6 +45,11 @@ As an Infrastructure Engineer at Sopra Banking Software, I focus on:
 - Troubleshooting complex infrastructure issues in a global banking environment
 - Collaborating with development teams to streamline operations and support innovative fintech solutions
 
+Professional certifications :
+
+- Aws Solution Architect Associate
+- Terraform Associate :  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8ac2dc32-9d2c-48d1-8594-a83f5b4b8003" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 🌱 Always Learning
 
 I'm passionate about staying up-to-date with the latest trends in cloud computing and DevOps, especially as they apply to the financial sector. Currently exploring [your current learning focus].
