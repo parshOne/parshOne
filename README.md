@@ -51,7 +51,7 @@ Professional certifications :
 - Terraform Associate : https://www.credly.com/badges/8ac2dc32-9d2c-48d1-8594-a83f5b4b8003/public_url
 ### 🌱 Always Learning
 
-I'm passionate about staying up-to-date with the latest trends in cloud computing and DevOps, especially as they apply to the financial sector. Currently exploring [your current learning focus].
+I'm passionate about staying up-to-date with the latest trends in cloud computing and DevOps, especially as they apply to the financial sector. Currently exploring Kubernetes.
 
 ### 📫 Let's Connect
 
