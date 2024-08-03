@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 **PARVESH NEGI** 👨‍💻</div>
 
-## Infrastructure Engineer at Sopra Banking Software
+## <div align="center"> Infrastructure Engineer at Sopra Banking Software </div>
 
 <div align="center">
 
