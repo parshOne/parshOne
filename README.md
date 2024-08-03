@@ -7,7 +7,7 @@
 ☁️ AWS | 🐳 Docker | 🔧 Ansible | 🏗️ Terraform | 🐙 GitHub Actions | 🐧 Linux
 
 </div>
-
+<br>
 
 Hi there! 👋 I'm Parvesh, an experienced Infrastructure Engineer currently working at Sopra Banking Software. I specialize in cloud technologies and DevOps practices, helping to build robust and scalable financial software solutions.
 
