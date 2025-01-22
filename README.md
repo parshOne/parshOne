@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 **PARVESH NEGI** 👨‍💻</div>
 
-## <div align="center"> Infrastructure Engineer at Sopra Banking Software </div>
+## <div align="center"> Cloud Infrastructure Engineer at SITA </div>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 </div>
 <br>
 
-Hi there! 👋 I'm Parvesh, an experienced Infrastructure Engineer currently working at Sopra Banking Software. I specialize in cloud technologies and DevOps practices, helping to build robust and scalable financial software solutions.
+Hi there! 👋 I'm Parvesh, an experienced Cloud Infrastructure Engineer currently working at SITA. I specialize in cloud technologies and DevOps practices, helping to build robust and scalable financial software solutions.
 
 ### 🏢 Current Role
 
