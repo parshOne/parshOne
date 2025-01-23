@@ -27,7 +27,7 @@ Hi there! 👋 I'm Parvesh, an experienced Cloud Infrastructure Engineer current
 - **Infrastructure as Code:** 🏗️ Terraform, 🔧 Ansible
 - **Containerization:** 🐳 Docker
 - **Version Control:** 📂 Git
-- **CI/CD:** Azure Devops, AWS CodePipeline
+- **CI/CD:** Azure Pipelines, AWS CodePipeline
 - **Monitoring:** 📊 LogicMonitor
 - **Ticketing:** 🎫 Alemba
 - **Operating Systems:** 🐧 Linux Administration
