@@ -13,12 +13,12 @@ Hi there! 👋 I'm Parvesh, an experienced Cloud Infrastructure Engineer current
 
 ### 🏢 
 
-**Infrastructure Engineer** at **Sopra Banking Software  (Sep2021 - Dec 2024)**
+**Infrastructure Engineer** at **Sopra Banking Software  (Sep'2021 - Dec'2024)**
 - Designing and implementing cloud-based infrastructure for banking software
 - Optimizing DevOps processes to enhance software delivery and reliability
 - Collaborating with global teams to support innovative financial technology solutions
 
-** **Cloud Infrastructure Engineer** at **SITA ( Jan 2025 - Present )**
+** **Cloud Infrastructure Engineer** at **SITA ( Jan'2025 - Present )**
   Azure, Vmware
 
 ### 🛠 Skills
