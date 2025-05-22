@@ -23,7 +23,7 @@ Hi there! 👋 I'm Parvesh, an experienced Cloud Infrastructure Engineer current
 
 ### 🛠 Skills
 
-- **Cloud Platforms:** ☁️ AWS
+- **Cloud Platforms:** ☁️ AWS, Azure
 - **Infrastructure as Code:** 🏗️ Terraform, 🔧 Ansible
 - **Containerization:** 🐳 Docker
 - **Version Control:** 📂 Git
