@@ -40,13 +40,13 @@ I have hands-on experience with various AWS services, including:
 
 ### 💼 What I Do
 
-As an Infrastructure Engineer at Sopra Banking Software, I focus on:
+As an Cloud Infrastructure Engineer at SITA, I focus on:
 
-- Designing and implementing scalable cloud infrastructure for banking applications
-- Automating deployment processes to improve efficiency and reduce errors
-- Enhancing system security and performance for financial data protection
-- Troubleshooting complex infrastructure issues in a global banking environment
-- Collaborating with development teams to streamline operations and support innovative fintech solutions
+- Designing and implementing scalable 
+- Automating deployment processes to improve efficiency and reduce errors within private cloud platforms
+- Enhancing security and performance within pipelines
+- Troubleshooting complex infrastructure issues in our platform
+- Collaborating with development teams to streamline operations and support innovative solutions
 
 Professional certifications :
 
